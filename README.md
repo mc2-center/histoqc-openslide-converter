@@ -1,0 +1,1 @@
+# histoqc-openslide-converter
